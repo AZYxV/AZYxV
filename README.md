@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Linux   
   
 
-- ⚡ Fun fact: When I install a linux package, I enter the letter Y while the terminal suggests it by default  
+- ⚡ Fun fact: When I install a linux package, I enter the letter Y while the terminal suggests it by default -_-
   
 
 <br/>  
