@@ -6,7 +6,7 @@
 ### <div align="center">I'm nathan, a Full-Stack web developer</div>  
   
 
-- 🌱 I’m currently learning Network   
+- 🌱 I’m currently learning CCNA 200-301  
   
 
 - ⚡ Fun fact: I know how to leave Vim
